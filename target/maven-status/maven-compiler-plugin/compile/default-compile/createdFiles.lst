@@ -1,0 +1,6 @@
+com\insitel\ubicaciones_crud\service\UbicacionesService.class
+com\insitel\ubicaciones_crud\UbicacionesCrudApplication.class
+com\insitel\ubicaciones_crud\respository\CRUD\UbicacionesCrudRepository.class
+com\insitel\ubicaciones_crud\repository\UbicacionesRepository.class
+com\insitel\ubicaciones_crud\entity\Ubicaciones.class
+com\insitel\ubicaciones_crud\controller\UbicacionesController.class
